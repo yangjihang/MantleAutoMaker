@@ -20,6 +20,17 @@ Step 2: Run the project and then click "Generate By JsonFile From Desktop".
 Step 3: Finish! .h and .m file have generated on Desktop. Using those files in your project and save time to do more creative work!
 
 
+Let's see the result of our example:
+JSON structure:
+![alt tag](https://cloud.githubusercontent.com/assets/1708050/23861122/032b4426-0844-11e7-8ca0-7324ac159e8a.png)
+
+.h file
+![alt tag](https://cloud.githubusercontent.com/assets/1708050/23861049/cf13a11a-0843-11e7-9abf-801a3bfc2028.png)
+
+.m file
+![alt tag](https://cloud.githubusercontent.com/assets/1708050/23861051/d06c68ee-0843-11e7-8aac-1f8c8161eabd.png)
+
+
 Tips:
 
 1.You may not satisfied with the name of .h and .m file. Those names are based on the JSON file name, so just name the JSON file you want.
